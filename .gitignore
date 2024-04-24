@@ -1,0 +1,13 @@
+# Local Terraform directories (can be recreated)
+.terraform/
+
+# Terraform state files (contain potentially sensitive information)
+*.tfstate
+*.tfstate.*
+
+# Provider lock file
+.terraform.lock.hcl
+
+# Ignore any .tfvars files (may contain sensitive data)
+*.tfvars
+*.tfvars.json
